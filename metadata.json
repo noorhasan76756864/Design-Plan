@@ -1,0 +1,6 @@
+{
+  "name": "BuildSpace",
+  "description": "AI-powered platform for construction project management and interior design visualization",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
